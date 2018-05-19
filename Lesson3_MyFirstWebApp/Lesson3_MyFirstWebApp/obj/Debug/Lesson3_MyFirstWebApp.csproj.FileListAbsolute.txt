@@ -1,0 +1,9 @@
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\bin\Lesson3_MyFirstWebApp.dll.config
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\bin\Lesson3_MyFirstWebApp.dll
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\bin\Lesson3_MyFirstWebApp.pdb
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\obj\Debug\Lesson3_MyFirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\obj\Debug\Lesson3_MyFirstWebApp.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\obj\Debug\Lesson3_MyFirstWebApp.dll
+C:\Users\windows7\Desktop\Practice_C#\Practice_C_Sharp_Bob\Practice_C_Sharp_Bob\Lesson3_MyFirstWebApp\Lesson3_MyFirstWebApp\obj\Debug\Lesson3_MyFirstWebApp.pdb
